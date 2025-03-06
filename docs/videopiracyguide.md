@@ -479,6 +479,7 @@
 * [DD12](https://dd12streams.com/) - Motorsports / [Discord](https://discord.com/invite/TTFE8Jfz7G)
 * [F1Box](https://f1box.me/) - Motorsports
 * [Formula 1 Streams](https://reddit.formula1stream.cc/) - Motorsports
+* [NHL Streams](https://nhlstreamer.com/) - Hockey (NHL)
 * [NHLStreams](https://nhlstreams.io/) - Hockey
 * [NHLstream](https://nhlstream.net/) - Hockey
 * [NHL24ALL](https://nhl24all.ir/) - Hockey
@@ -487,6 +488,8 @@
 * [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
 * [F1 Dash](https://f1-dash.com/) - F1 Live Stats
 * [Live Snooker Guide](https://redd.it/1ibz2yz) - Snooker
+* [Rugby Streams](https://livestreamrugby.com/) - Rugby
+* [F1 Streams](https://f1streaming.com/) - F1 - Formula One
 
 ***
 
